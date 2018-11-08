@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/senior"
+        android:icon="@drawable/ic_work_black"
+        android:title="Senior Wing" />
+
+    <item
+        android:id="@+id/junior"
+        android:icon="@drawable/ic_work_black"
+        android:title="Junior Wing" />
+
+    <item
+        android:id="@+id/kids"
+        android:icon="@drawable/ic_work_black"
+        android:title="Kids Wing" />
+
+</menu>

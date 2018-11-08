@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "424534763814",
+    "firebase_url": "https://davpublicschoolkoylanagar.firebaseio.com",
+    "project_id": "davpublicschoolkoylanagar",
+    "storage_bucket": "davpublicschoolkoylanagar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424534763814:android:d3c497ceb038b91c",
+        "android_client_info": {
+          "package_name": "com.manan.admin.davkoylanagar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424534763814-1oik2hgeuhn7c6541jhv7bum5o3thuqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manan.admin.davkoylanagar",
+            "certificate_hash": "17d8247fae22aedb625fa50a7df4fa0be8d471ec"
+          }
+        },
+        {
+          "client_id": "424534763814-25dkart9lf4pvp9heoe4129gdmupki8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTXxNJWCWxdniDuqgD7mhA_OfgDPBOle8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424534763814-25dkart9lf4pvp9heoe4129gdmupki8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
